@@ -1,0 +1,10 @@
+.CommentBox{
+    height:120px;
+    width: 400px;
+    border: 1px solid black
+}
+
+.icon-style{
+    height:50px;
+    width: 50px;
+}

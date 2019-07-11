@@ -1,0 +1,7 @@
+.message-none-selected{
+    display: none;
+}
+
+.message-display-selected{
+    display: block;
+}

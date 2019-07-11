@@ -1,0 +1,12 @@
+.message-display-none{
+    display:none;
+}
+
+.message-display{
+    display:block;
+}
+
+.focus-text{
+    display: flex;
+    flex-direction: column;    
+}
